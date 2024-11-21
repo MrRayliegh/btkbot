@@ -5,5 +5,6 @@ return {
   842560, -- si item
   832810, --FadilAja
   664674, -- kopeekkk
-  851298 -- Alvinnnxd
+  851298, -- Alvinnnxd
+  462240 -- Needboy
 }
