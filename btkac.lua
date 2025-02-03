@@ -8,5 +8,6 @@ return {
   851298, -- Alvinnnxd
   462240, -- Needboy
   180567, -- kamtzy
-  884495 -- Hann
+  884495, -- Hann
+  591553 -- MADRIZ
 }
