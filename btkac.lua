@@ -10,5 +10,6 @@ return {
   180567, -- kamtzy
   884495, -- Hann
   591553, -- MADRIZ
-  811865, 210694 -- BEBUNGGULAN 1&2
+  811865, 210694, -- BEBUNGGULAN 1&2
+  910909 -- naell
 }
