@@ -12,5 +12,6 @@ return {
   591553, -- MADRIZ
   811865, 210694, -- BEBUNGGULAN 1&2
   910909, -- naell
-  151105 -- Mmm
+  151105, -- Mmm
+  502409 -- Hannes
 }
