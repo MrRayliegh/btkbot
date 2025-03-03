@@ -14,5 +14,6 @@ return {
   910909, -- naell
   151105, -- Mmm
   502409, -- Hannes
-  920971 -- H1DD3N
+  920971, -- H1DD3N
+  592204 -- shizui
 }
