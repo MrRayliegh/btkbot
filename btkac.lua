@@ -17,5 +17,6 @@ return {
   920971, -- H1DD3N
   592204, -- shizui
   512190, --xkennx
-  907063 -- Kenjiah
+  907063, -- Kenjiah
+  212970 -- Tungsten
 }
