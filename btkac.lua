@@ -18,5 +18,6 @@ return {
   592204, -- shizui
   512190, --xkennx
   907063, -- Kenjiah
-  212970 -- Tungsten
+  212970, -- Tungsten
+  4999 -- Kamil
 }
