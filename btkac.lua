@@ -23,5 +23,6 @@ return {
   476822, --TAMBOL
   875349, -- jeaken
   451702, -- Jetyo
-  106498 -- Kellnocounter
+  106498, -- Kellnocounter
+  554794 -- JYP
 }
