@@ -28,5 +28,6 @@ return {
   597999, -- Sem
   915224, -- no name
   323064, -- Qai
-  367868 -- emmo
+  367868, -- emmo
+  944361 -- Geroge Droyd
 }
